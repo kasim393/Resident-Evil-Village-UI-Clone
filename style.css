@@ -583,7 +583,7 @@ table tr:hover {
   height: 100vh;
 }
 .load-container {
-  background-image: url(loadgame.jpg);
+  background-image: url(img/loadgame.jpg);
   background-position: center;
   background-size: cover;
   position: absolute;
