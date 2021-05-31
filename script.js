@@ -22,7 +22,7 @@ function playError() {
   var sound = document.getElementById("audio2");
   sound.play();
 }
-
+document.getElementById("status1").play();
 // preloader
 $(window).on("load", function () {
   $("#status1").fadeIn().delay(5000).fadeOut();
