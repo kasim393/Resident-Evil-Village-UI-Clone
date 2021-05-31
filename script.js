@@ -71,26 +71,26 @@ close1.onclick = function () {
 $(function () {
   $("#home1").on({
     mouseenter: function () {
-      $("#img").attr("src", "book.jpg");
+      $("#img").attr("src", "img/book.jpg");
     },
     mouseleave: function () {
-      $("#img").attr("src", "book.jpg");
+      $("#img").attr("src", "img/book.jpg");
     },
   });
   $("#home2").on({
     mouseenter: function () {
-      $("#img").attr("src", "extra.png");
+      $("#img").attr("src", "img/extra.png");
     },
     mouseleave: function () {
-      $("#img").attr("src", "extra.png");
+      $("#img").attr("src", "img/extra.png");
     },
   });
   $("#home3").on({
     mouseenter: function () {
-      $("#img").attr("src", "mv.jpg");
+      $("#img").attr("src", "img/mv.jpg");
     },
     mouseleave: function () {
-      $("#img").attr("src", "mv.jpg");
+      $("#img").attr("src", "img/mv.jpg");
     },
   });
 });
