@@ -9,11 +9,11 @@ RE: Village 8 UI Menu Clone
 ## Demo
 [Live](https://kasim393.github.io/Resident-Evil-Village-UI-Clone/)
 
-## Video
-### Coming soon
-
 ## Screenshot
 ![Sreenshot](https://raw.githubusercontent.com/kasim393/Resident-Evil-Village-UI-Clone/main/img/ss.png)
+
+## Video
+### Coming soon
 
 ## Built With
 * [HTML]
